@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkboss_wiki=self.webpackChunkboss_wiki||[]).push([[6739],{5595:e=>{e.exports=JSON.parse('{"title":"C++\u77e5\u8bc6\u8bb0\u5f55","slug":"/category/c","permalink":"/docs/category/c","navigation":{"next":{"title":"Type Casting","permalink":"/docs/tech/c++/Type Casting"}}}')}}]);
